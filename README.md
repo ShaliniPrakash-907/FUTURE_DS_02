@@ -3,15 +3,13 @@ Power BI dashboard analyzing business sales performance, revenue trends, top-sel
 
 # Customer Retention & Churn Analysis Dashboard
 
-# Customer Retention & Churn Analysis Dashboard
-
 ## Project Overview
 
 This project focuses on analyzing customer retention and churn behavior using Power BI. The objective is to identify the key factors that influence customer churn and provide actionable insights to improve customer retention strategies.
 
 This dashboard was developed as part of the Future Interns Data Science & Analytics Task 2 (2026).
 
----
+
 
 ## Objectives
 
@@ -25,7 +23,7 @@ The primary goals of this project are:
 - Analyze customer tenure and its relationship with churn.
 - Provide data-driven recommendations to improve customer retention.
 
----
+
 
 ## Dashboard KPIs
 
@@ -34,7 +32,7 @@ The primary goals of this project are:
 - Churn Rate (%)
 - Average Monthly Charges
 
----
+
 
 ## Dashboard Visualizations
 
@@ -62,7 +60,7 @@ Compares average customer tenure between churned and retained customers.
 
 The dashboard includes interactive filters for Contract Type, Internet Service, Gender, Senior Citizen, Partner, Dependents, and Payment Method.
 
----
+
 
 ## Key Insights
 
@@ -74,7 +72,7 @@ The dashboard includes interactive filters for Contract Type, Internet Service, 
 - Customers with shorter tenure are more likely to churn.
 - Long-term customers demonstrate stronger loyalty and retention.
 
----
+
 
 ## Business Recommendations
 
@@ -84,7 +82,7 @@ The dashboard includes interactive filters for Contract Type, Internet Service, 
 - Implement targeted retention programs for new customers with low tenure.
 - Develop loyalty programs to improve long-term customer retention.
 
----
+
 
 ## Tools and Technologies Used
 
@@ -94,7 +92,7 @@ The dashboard includes interactive filters for Contract Type, Internet Service, 
 - DAX Measures
 - Interactive Dashboard Design
 
----
+
 
 ## Project Deliverables
 
@@ -102,4 +100,3 @@ The dashboard includes interactive filters for Contract Type, Internet Service, 
 - Dashboard Screenshot
 - Project Documentation (README.md)
 
----
