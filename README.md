@@ -3,15 +3,17 @@ Power BI dashboard analyzing business sales performance, revenue trends, top-sel
 
 # Customer Retention & Churn Analysis Dashboard
 
-## 📌 Project Overview
+# Customer Retention & Churn Analysis Dashboard
+
+## Project Overview
 
 This project focuses on analyzing customer retention and churn behavior using Power BI. The objective is to identify the key factors that influence customer churn and provide actionable insights to improve customer retention strategies.
 
-This dashboard was developed as part of the **Future Interns – Data Science & Analytics Task 2 (2026)**.
+This dashboard was developed as part of the Future Interns Data Science & Analytics Task 2 (2026).
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The primary goals of this project are:
 
@@ -25,9 +27,7 @@ The primary goals of this project are:
 
 ---
 
-## 📊 Dashboard KPIs
-
-The dashboard includes the following key performance indicators:
+## Dashboard KPIs
 
 - Total Customers
 - Churned Customers
@@ -36,84 +36,47 @@ The dashboard includes the following key performance indicators:
 
 ---
 
-## 📈 Dashboard Visualizations
+## Dashboard Visualizations
 
 ### 1. Customer Churn Overview
+
 A donut chart displaying the percentage of customers who have churned versus those who remain active.
 
 ### 2. Churn by Contract Type
-Analyzes churn patterns across:
-- Month-to-Month Contracts
-- One-Year Contracts
-- Two-Year Contracts
+
+Analyzes churn patterns across Month-to-Month, One-Year, and Two-Year contracts.
 
 ### 3. Churn by Internet Service
-Compares churn rates among:
-- DSL
-- Fiber Optic
-- No Internet Service
+
+Compares churn rates among DSL, Fiber Optic, and No Internet Service customers.
 
 ### 4. Average Monthly Charges by Churn
+
 Shows the relationship between monthly charges and customer churn.
 
 ### 5. Average Tenure by Churn
+
 Compares average customer tenure between churned and retained customers.
 
 ### 6. Interactive Slicers
-The dashboard includes interactive filters for:
-- Contract Type
-- Internet Service
-- Gender
-- Senior Citizen
-- Partner
-- Dependents
-- Payment Method
+
+The dashboard includes interactive filters for Contract Type, Internet Service, Gender, Senior Citizen, Partner, Dependents, and Payment Method.
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-### Customer Churn
 - Approximately 26.54% of customers have churned.
-- Most customers remain active, indicating a relatively strong retention rate.
-
-### Contract Impact
 - Customers with Month-to-Month contracts have the highest churn rate.
-- Long-term contracts significantly improve customer retention.
-
-### Internet Service Impact
-- Fiber Optic customers exhibit higher churn rates compared to DSL customers.
-- Customers without internet service show the lowest churn levels.
-
-### Monthly Charges
+- Long-term contracts show better customer retention.
+- Fiber Optic customers show higher churn compared to other internet services.
 - Customers who churn generally have higher monthly charges.
-- Pricing may be a contributing factor to customer attrition.
-
-### Customer Tenure
 - Customers with shorter tenure are more likely to churn.
 - Long-term customers demonstrate stronger loyalty and retention.
 
 ---
 
-## 🛠 Tools & Technologies Used
-
-- Power BI
-- Data Visualization
-- Data Analysis
-- DAX Measures
-- Interactive Dashboard Design
-
----
-
-## 📂 Project Deliverables
-
-- Power BI Dashboard (.pbix)
-- Dashboard Screenshot
-- Project Documentation (README)
-
----
-
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Encourage customers to switch from Month-to-Month contracts to long-term plans.
 - Investigate reasons behind high churn among Fiber Optic users.
@@ -123,19 +86,20 @@ The dashboard includes interactive filters for:
 
 ---
 
-## 🚀 Project Outcome
+## Tools and Technologies Used
 
-The dashboard successfully identifies the major drivers of customer churn and provides valuable insights that can help businesses improve retention, reduce customer loss, and make data-driven decisions.
+- Power BI
+- Data Analysis
+- Data Visualization
+- DAX Measures
+- Interactive Dashboard Design
 
 ---
 
-## 👩‍💻 Author
+## Project Deliverables
 
-**Janani P**
-
-Integrated M.Tech – Computer Science & Business Analytics  
-VIT Chennai
-
-**Future Interns – Data Science & Analytics Task 2 (2026)**
+- Power BI Dashboard (.pbix)
+- Dashboard Screenshot
+- Project Documentation (README.md)
 
 ---
